@@ -1,1 +1,15 @@
 /* add your CSS here */
+
+.box1{
+max-width: 415px;
+border: outset;
+align-content: center;
+margin:auto;
+}
+
+.box2{
+border: inset;
+width: 395px;
+margin: auto;
+padding;5px;
+}
